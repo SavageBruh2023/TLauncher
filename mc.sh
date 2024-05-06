@@ -11,7 +11,7 @@
 
 #! /bin/sh
 cd Downloads
-sudo java -jar TLauncher-2.86.jar # Edit the * in "TLauncher-*.jar" with the version of your own
+sudo java -jar TLauncher.jar # Edit the * in "TLauncher-*.jar" with the version of your own
 # enc
 
 
